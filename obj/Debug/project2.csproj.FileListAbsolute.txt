@@ -1,0 +1,7 @@
+G:\ooplab2\project2\project2\bin\Debug\project2.exe.config
+G:\ooplab2\project2\project2\bin\Debug\project2.exe
+G:\ooplab2\project2\project2\bin\Debug\project2.pdb
+G:\ooplab2\project2\project2\obj\Debug\project2.csproj.AssemblyReference.cache
+G:\ooplab2\project2\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+G:\ooplab2\project2\project2\obj\Debug\project2.exe
+G:\ooplab2\project2\project2\obj\Debug\project2.pdb
